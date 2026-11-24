@@ -97,3 +97,4 @@ print(class_report)
 
 
 ## Result
+The Logistic Regression model separates the standardized features cleanly, achieving an F1-score of 0.96 for malignant cases and 0.98 for benign cases.
